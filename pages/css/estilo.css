@@ -79,3 +79,9 @@ li {
 .Tercero {
         order: 3;
     }
+
+/* animate.css
+.animate__backInLeft {
+    animation-duration: 2s;
+    animation: bounce;
+} */

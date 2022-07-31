@@ -48,19 +48,21 @@ li {
 /*PRODUCTOS 1*/
 .padreFlex {
     background-color: bisque;
-    width: 96%;
-    height: 100%;
+    /* width: 96%;
+    height: 100%; */
     border: 3px black solid;
     border-radius: 4px;
-    margin: auto;
-    display: flex;
+    /* margin: auto; */
+    /* display: flex; */
     flex-flow: row wrap;}
 .HijoFlex {
         background-color: brown;
-        height: 200px;
-        width: 300px; 
+        height: 100%;
+        width: 100%; 
         border: 1px black dotted;
         border-radius: 4px;
+        margin: auto;
+        gap: 5px;
     }
 .HijoFlex p {
         color: black;

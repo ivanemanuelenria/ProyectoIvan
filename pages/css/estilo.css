@@ -20,17 +20,17 @@ h1 {
 .botones {
     background-color: rgb(170, 114, 114);
     border: 3px green solid;
-    padding-top: 15px;
-    padding-bottom: 10px;
+    /* padding-top: 15px;
+    padding-bottom: 10px; */
     display: flex; 
     align-content: center;
 }
 li {
     display: inline;
-    padding: 2rem ;
+    /* padding: 2rem ; */
     font-size: 20px;
-    align-items: center;
-    width: 100%;
+    /* align-items: center; */
+    /* width: 100%; */
 }
 .botonesPie {
     display: inline-block;
@@ -53,7 +53,7 @@ li {
     border: 3px black solid;
     border-radius: 4px;
     /* margin: auto; */
-    /* display: flex; */
+    display: flex;
     flex-flow: row wrap;}
 .HijoFlex {
         background-color: brown;

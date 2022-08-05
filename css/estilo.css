@@ -1,0 +1,90 @@
+.imagenSyd {
+  text-align: center;
+  border-image: 15%; }
+
+footer .imagenRedSoc {
+  width: 50px;
+  height: 50px; }
+
+footer .botonesPie {
+  display: inline-block; }
+
+footer p {
+  color: red; }
+
+body * {
+  padding: 10px;
+  margin: 10px; }
+
+body body {
+  background-color: #666666; }
+
+body .bodyInicio {
+  background-color: #312323; }
+
+body h1 {
+  color: 129; }
+
+body .botones {
+  background-color: #312323;
+  border: 3px green solid;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  display: flex;
+  align-content: center; }
+
+body li {
+  display: inline;
+  padding: 2rem;
+  font-size: 20px;
+  align-items: center;
+  width: 100%; }
+
+body .padreFlex {
+  background-color: bisque;
+  /* width: 96%;
+        height: 100%; */
+  border: 3px black solid;
+  border-radius: 4px;
+  /* margin: auto; */
+  /* display: flex; */
+  flex-flow: row wrap; }
+
+body .HijoFlex {
+  background-color: brown;
+  height: 100%;
+  width: 100%;
+  border: 1px black dotted;
+  border-radius: 4px;
+  margin: auto;
+  gap: 5px; }
+
+body .HijoFlex p {
+  color: black;
+  font-size: 2rem;
+  text-transform: uppercase;
+  gap: 1px; }
+
+.Primero {
+  order: 1; }
+
+.Segundo {
+  order: 2; }
+
+.Tercero {
+  order: 3; }
+
+.imagenRedSoc {
+  width: 50px;
+  height: 50px; }
+
+* {
+  padding: 10px;
+  margin: 10px; }
+
+h1 {
+  color: red;
+  text-align: center; }
+
+.body {
+  background-color: #d6d69b; }

@@ -1,0 +1,56 @@
+body {
+    * {
+        padding: 10px;
+        margin: 10px;
+    
+    }
+    body {
+        background-color: rgb(102, 102, 102);
+    }
+    .bodyInicio {
+        background-color: $color-primario;
+    }
+    h1 {
+        color: red($color: #811919);
+    }
+    .botones {
+        background-color: $color-primario;
+        border: 3px green solid;
+        padding-top: 15px;
+        padding-bottom: 10px;
+        display: flex;
+        align-content: center;
+    }
+
+    li {
+        display: inline;
+        padding: 2rem;
+        font-size: 20px;
+        align-items: center;
+        width: 100%;
+    }
+    .padreFlex {
+        background-color: bisque;
+        /* width: 96%;
+        height: 100%; */
+        border: 3px black solid;
+        border-radius: 4px;
+        /* margin: auto; */
+        /* display: flex; */
+        flex-flow: row wrap;}
+    .HijoFlex {
+            background-color: brown;
+            height: 100%;
+            width: 100%; 
+            border: 1px black dotted;
+            border-radius: 4px;
+            margin: auto;
+            gap: 5px;
+        }
+    .HijoFlex p {
+            color: black;
+            font-size: 2rem;
+            text-transform: uppercase;
+            gap: 1px;
+        }
+}

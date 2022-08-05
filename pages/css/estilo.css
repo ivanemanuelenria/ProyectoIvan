@@ -1,23 +1,24 @@
-* {
+/* * {
     padding: 10px;
     margin: 10px;
 
-}
+} */
 
-h1 {
+
+/* .bodyInicio {
+    background-color: rgb(214, 214, 155);
+} */
+/* .redesContactos {
+    border: 1px black solid;
+} */
+
+/* h1 {
     color: rgb(185, 43, 43);
     text-align: center;
-}
-.bodyInicio {
-    background-color: rgb(214, 214, 155);
-}
-.redesContactos {
-    border: 1px black solid;
-}
+} */
 
 
-
-.botones {
+/* .botones {
     background-color: rgb(170, 114, 114);
     border: 3px green solid;
     padding-top: 15px;
@@ -31,30 +32,30 @@ li {
     font-size: 20px;
     align-items: center;
     width: 100%;
-}
-.botonesPie {
+} */
+/* .botonesPie {
     display: inline-block;
-}
-.imagenSyd {
+} */
+/* .imagenSyd {
     text-align: center;
     border-image: 15%;
-}
-.imagenRedSoc {
+} */
+/* .imagenRedSoc {
     width: 50px;
     height: 50px;
-}
+} */
 
 
 /*PRODUCTOS 1*/
-.padreFlex {
+/* .padreFlex {
     background-color: bisque;
     /* width: 96%;
     height: 100%; */
-    border: 3px black solid;
-    border-radius: 4px;
+    /* border: 3px black solid;
+    border-radius: 4px; */
     /* margin: auto; */
     /* display: flex; */
-    flex-flow: row wrap;}
+    /* flex-flow: row wrap;}
 .HijoFlex {
         background-color: brown;
         height: 100%;
@@ -69,10 +70,10 @@ li {
         font-size: 2rem;
         text-transform: uppercase;
         gap: 1px;
-    }
+    }  */
     
     
-.Primero {
+/* .Primero {
         order: 1;
     }
 .Segundo {
@@ -80,7 +81,7 @@ li {
     }
 .Tercero {
         order: 3;
-    }
+    } */
 
 /* animate.css
 .animate__backInLeft {
